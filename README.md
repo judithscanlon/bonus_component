@@ -1,2 +1,1 @@
-# bonus_component
-Bonus Component Exercise
+# WebOrbit Bonus Component Exercise
